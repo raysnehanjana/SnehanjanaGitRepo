@@ -11,7 +11,6 @@ public class ExecutionClass {
 		executionTestClass.pleaseExecute();
 		
 		System.out.println("Execution Ended");
-		System.out.println("Execution Ended1");
 	}
 
 }
